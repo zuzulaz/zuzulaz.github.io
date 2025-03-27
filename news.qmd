@@ -1,0 +1,8 @@
+---
+title: "News"
+listing:
+  contents: news  # <-- the sub-directory with blog content
+  type: grid          # <-- my preferred layout type
+---
+
+What's new

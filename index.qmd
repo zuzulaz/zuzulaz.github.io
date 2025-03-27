@@ -1,0 +1,14 @@
+---
+title: "Zuzana Zajková"
+image: "images/profile_pic.jpg"
+about:
+  template: jolla
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: envelope
+      href: mailto:zuzulaz@gmail.com
+
+---
+
+Welcome to my website!

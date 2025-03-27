@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Zuzana Zajková"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - research.qmd
+      - publications.qmd
+      - conferences.qmd
+      - teaching.qmd
+      - supervision.qmd
+      - dataviz.qmd
+      - news.qmd
+      
+    tools:
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/zuzana-zajkovazz/
+      - icon: "{{< iconify ai googlescholar >}}"
+        text: GoogleScholar
+        href: https://scholar.google.com/citations?user=Qgt6v0QAAAAJ&hl=en
+      - icon: "{{< iconify ai orcid>}}"
+        text: Orcid
+        href: https://orcid.org/my-orcid?orcid=0000-0002-7540-3651
+      - icon: github
+        text: GitHub
+        href: https://github.com/zuzulaz
+      - icon: bluesky
+        text: Bluesky
+        href: https://bsky.app/profile/zuzanazajkova.bsky.social
+      - icon: twitter
+        text: Twitter
+        href: https://x.com/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:zuzlaz@gmail.com"  
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+
+
+

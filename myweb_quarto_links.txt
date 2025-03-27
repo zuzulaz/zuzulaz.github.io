@@ -1,0 +1,42 @@
+https://porfoliojjm.wixsite.com/jesjuamo/contacto
+https://italemp.wixsite.com/portfolio-digital-mo/portfolio-collections/my-portfolio/project-title-6
+https://view.genially.com/67d1d2f935d58d445d239546/personal-branding-porfolio-cristina-alcacer
+https://pablitinho.github.io/
+https://celiii.wixsite.com/portfolio
+
+
+Following this guides:
+https://www.danyavorsky.com/posts/021-host-on-github/
+https://marvinschmitt.com/blog/website-tutorial-quarto/index.html
+
+
+Nice inspiration
+https://www.andrewheiss.com/research/
+
+
+Set up:
+1. Create GitHub repository
+2. Create Quarto website in RStudio
+
+
+
+
+
+
+
+
+
+
+
+
+
+TODO:
+- link with github
+- add publications
+- add conferences (talks, posters, add poster form biologging Tokyo)
+- add teaching courses
+- add supervision students
+- add photos: about me, conference photo
+- add link to momentum, imares, csic
+- check the orcid, googlescholar logos, add bluesky, twitter
+- change colour
