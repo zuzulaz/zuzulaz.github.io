@@ -14,6 +14,7 @@ website:
       - conferences.qmd
       - teaching.qmd
       - supervision.qmd
+      - fieldwork.qmd
       - dataviz.qmd
       - news.qmd
       

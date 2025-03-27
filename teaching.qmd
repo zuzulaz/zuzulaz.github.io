@@ -5,16 +5,21 @@ title: "Teaching"
 I delivered specialized classes and courses, mostly focused analysis of movement, behavioural and spatial data in R.
 
 May 2023	
-Movement ecology: Analysis of animal movement data in R, Universidad de la República, Montevideo, Uruguay (40h)
+Movement ecology: Analysis of animal movement data in R (40h)
+Universidad de la República, Montevideo, Uruguay 
 
 October 2022	
-Analysis of GLS data, CEBC-CNRS, France (4h)
+Analysis of GLS data (4h)
+CEBC-CNRS, France
 
 April 2020	
-Analysis of activity data from GLS, UB, Spain (8h)
+Analysis of activity data from GLS (8h)
+University of Barcelona, Spain 
 
 April 2017	
-Introduction to R, UB, Spain (20h)
+Introduction to R (20h)
+University of Barcelona, Spain 
 
 2013-2016	
-Teaching assistant in classes: Chordate Practices, Biodiversity practices, Laboratory practices (Biology, Biomedical Sciences), Field work Zoology and Marine Sciences. UB, Spain (total 145 h)
+Teaching assistant in classes: Chordate Practices, Biodiversity practices, Laboratory practices (Biology, Biomedical Sciences), Field work Zoology and Marine Sciences (total 145 h)
+University of Barcelona, Spain, Spain
