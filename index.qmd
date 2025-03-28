@@ -7,7 +7,26 @@ about:
   image-shape: round
   links:
     - icon: envelope
+      text: Send me an email
       href: mailto:zuzulaz@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/zuzana-zajkovazz/
+    - icon: "{{< iconify ai googlescholar >}}"
+      text: GoogleScholar
+      href: https://scholar.google.com/citations?user=Qgt6v0QAAAAJ&hl=en
+    - icon: "{{< iconify ai orcid>}}"
+      text: Orcid
+      href: https://orcid.org/0000-0002-7540-3651
+    - icon: github
+      text: GitHub
+      href: https://github.com/zuzulaz
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/zuzanazajkova.bsky.social
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/
 
 ---
 

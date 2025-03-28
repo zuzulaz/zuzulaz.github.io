@@ -4,20 +4,21 @@ title: "About me"
 
 
 
-
+ADD SOME INFO HERE
 
 
 
 
 ACADEMIC WORK EXPERIENCE 
 
-December 2024 – ongoing	
+December 2024 – ongoing
 Post-doctoral researcher
 Institut de Ciències del Mar (ICM-CSIC), Barcelona, Spain
 Supervisor: Dr Francisco Ramírez & Dr Maria Grazia Penino
 Project: Spatial Habitat Identification and Forecasting Tool (SHIFT)
 
-April 2023 – Oct 2024	Post-doctoral researcher
+April 2023 – Oct 2024
+Post-doctoral researcher
 Institut de Ciències del Mar (ICM-CSIC), Barcelona, Spain
 Supervisor: Dr Francisco Ramírez
 Project: A Safe Operating Space for Penguins: fostering the present and future conservation of penguins and their associated marine systems (SOSPEN)
@@ -42,6 +43,7 @@ University of Barcelona, Spain
 
 NON-ACADEMIC WORK EXPERIENCE 
 
-October 2018 – July 2020	Data Scientist
-Proyectos en Gestión del Conocimiento, Mataró, Spain 
+October 2018 – July 2020
+Data Scientist
+Proyectos en Gestión del Conocimiento, Mataró, Spain
 Project: SAPIENS, Funded by FECYT/CDTI Spain 
