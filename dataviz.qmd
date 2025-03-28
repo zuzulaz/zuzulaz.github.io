@@ -2,5 +2,9 @@
 title: "DataViz"
 ---
 
-My data vizualizations
 
+One of my visualizations, *Where do shearwaters go?*, was featured in an online magazine *SciArt Magazine* (not active currently) run by the *SciArt Initiative*.        
+
+This visualization was later [long-listed](https://www.informationisbeautifulawards.com/showcase/4820-where-do-shearwaters-go)  in the *Information is Beautiful Awards 2022* run by *Data Visualization Society*.
+
+![*Where do shearwaters go?*](images/sciart_shearwaters.jpg)

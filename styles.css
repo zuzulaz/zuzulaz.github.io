@@ -1,3 +1,43 @@
 /* css styles */
-$primary:   $teal!default;
-$secondary: $gray-700 !default;
+
+/* Force overriding the primary color using a more specific selector */
+:root {
+    --bs-primary: #005b6d !important; /* Your desired primary color */
+}
+
+
+
+
+/* Default color for hyperlinks */
+a {
+    color: #0b7f99;  /* Your preferred link color */
+    text-decoration: none;  /* Optionally remove the underline */
+}
+
+/* Override for links using primary color, here menu and tools in index are blue */
+a:hover {
+    color: #0b7f99 !important; /* Darken on hover */
+}
+
+
+
+
+
+
+/* Selected item in the Table of Contents (TOC) or Sidebar */
+#sidebar .toc a.active {
+    color: #ffdd40 !important; /* Change to your preferred color for the selected link */
+    font-weight: bold;  /* Optional: Make the selected item bold */
+}
+
+
+
+/* Navbar */
+.navbar-nav a:hover {
+    color: #005b6d; /* Color when sidebar link is hovered */
+}
+
+/* Sidebar active link color */
+.navbar-nav .active > a {
+    color: #005b6d; /* Change the color of the active sidebar item */
+}

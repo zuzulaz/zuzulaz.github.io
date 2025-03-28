@@ -4,7 +4,7 @@ title: "Publications"
 
 ### Research articles peer-reviewed published/accepted
 
-Morera‐Pujol, V., Catry, P., Magalhães, M., Péron, C., Reyes‐González, J. M., Granadeiro, J. P., \... & Ramos, R. (2025). Migratory Connectivity and Non‐Breeding Habitat Segregation Across Biogeographical Scales in Closely Related Seabird Taxa. Diversity and Distributions, 31(3), e70013.<https://doi.org/10.1111/ddi.70013>
+Morera‐Pujol, V., Catry, P., Magalhães, M., Péron, C., Reyes‐González, J. M., Granadeiro, J. P., \... & Ramos, R. (2025). Migratory Connectivity and Non‐Breeding Habitat Segregation Across Biogeographical Scales in Closely Related Seabird Taxa. Diversity and Distributions, 31(3), e70013. <https://doi.org/10.1111/ddi.70013>
 
 Zaldúa, N., Zajková, Z., Machado-Gaye, A. L., Franco-Trecu, V., Cosse, M., Ropert-Coudert, Y., Kato, A. & Soutullo, A. (2024). Changing the focus: The need for cross-scale dynamic management in the Southern Ocean and implications for holistic conservation of Antarctic marine living resources. Marine Policy, 170, 106361. <https://doi.org/10.1016/j.marpol.2024.106361>
 
@@ -20,7 +20,7 @@ Ramos, R., Paiva, V. H., Zajková, Z., Precheur, C., Fagundes, A. I., Jodice, P.
 
 Ramos, R., Reyes-González, J. M., Morera-Pujol, V., Zajková, Z., Militão, T., & González-Solís, J. (2020). Disentangling environmental from individual factors in isotopic ecology: A 17-year longitudinal study in a long-lived seabird exploiting the Canary Current. Ecological Indicators, 111, 105963. <https://doi.org/10.1016/j.ecolind.2019.105963>
 
-Pastor-Prieto, M., Ramos, R., Zajková, Z., Reyes-González, J.M., Rivas, M.L., Ryan, P.G., González-Solís, J. (2019). Spatial ecology, phenological variability and moulting patterns of the Endangered Atlantic petrel Pterodroma incerta. Endangered Species Research, 40, 189-206. doi: <https://doi.org/10.3354/esr00991>
+Pastor-Prieto, M., Ramos, R., Zajková, Z., Reyes-González, J.M., Rivas, M.L., Ryan, P.G., González-Solís, J. (2019). Spatial ecology, phenological variability and moulting patterns of the Endangered Atlantic petrel Pterodroma incerta. Endangered Species Research, 40, 189-206. <https://doi.org/10.3354/esr00991>
 
 Zango, L., Reyes-González, J. M., Militão, T., Zajková, Z., Álvarez-Alonso, E., Ramos, R., & González-Solís, J. (2019). Year-round individual specialization in the feeding ecology of a long-lived seabird. Scientific reports, 9(1), 1-12. <https://doi.org/10.1038/s41598-019-48214-0>
 

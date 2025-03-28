@@ -15,6 +15,7 @@ website:
       - teaching.qmd
       - supervision.qmd
       - fieldwork.qmd
+      - awards.qmd
       - dataviz.qmd
       - news.qmd
       
@@ -44,8 +45,5 @@ website:
 format:
   html:
     theme: simplex
-    css: styles.css
     toc: true
-
-
-
+    css: styles.css

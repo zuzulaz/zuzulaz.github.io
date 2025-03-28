@@ -3,47 +3,72 @@ title: "About me"
 ---
 
 
+::: column-margin
+![](images/profile_pic_bw.png)
+:::
 
-ADD SOME INFO HERE
+I am an ecologist with a strong background in data science, specializing in the movement ecology of animals, particularly their migration strategies and foraging patterns. My expertise lies in processing data from bio-logging devices to describe and model migratory routes, identify stopovers and residency in non-breeding areas, as well as their relationship with the environment. I am also passionate about data visualization, exploring new ways to create effective and beautiful graphics that turn data into accessible knowledge for the scientific community and the general public.
 
 
 
+### ACADEMIC EDUCATION 
 
-ACADEMIC WORK EXPERIENCE 
+**PhD in Biodiversity**    
+October 2012 - January 2020	    
+University of Barcelona (UB) & Centre of Advanced Studies in Blanes
+(CEAB-CSIC), Spain	    
+Supervisors: Dr Jacob González-Solís & Dr Frederic Bartumeus	    
+Title: Movement ecology in pelagic seabirds	    
+PhD. defence date: 20/01/2020	    
 
-December 2024 – ongoing
-Post-doctoral researcher
-Institut de Ciències del Mar (ICM-CSIC), Barcelona, Spain
-Supervisor: Dr Francisco Ramírez & Dr Maria Grazia Penino
-Project: Spatial Habitat Identification and Forecasting Tool (SHIFT)
+**Master Degree in Biodiversity**    
+Septmber 2011 - Septmber 2012	    
+University of Barcelona, Spain	    
+Supervisor: Dr Jacob González-Solís	    
+Title: Migration of Boyd’s shearwater (Puffinus boydi) using geolocators and stable isotope analysis	    
 
-April 2023 – Oct 2024
-Post-doctoral researcher
-Institut de Ciències del Mar (ICM-CSIC), Barcelona, Spain
-Supervisor: Dr Francisco Ramírez
-Project: A Safe Operating Space for Penguins: fostering the present and future conservation of penguins and their associated marine systems (SOSPEN)
+**Bachelors & Mgr. (Master) Degree in Ecology and Environmental Science**    
+Septmber 2002 - May 2007	    
+University of Constantine the Philosopher, Nitra, Slovakia	    
+Title: Endangered plants of Zoborské vrchy hills	    
 
-April 2021 – June 2022	
-Post-doctoral researcher
-Centre d'Etudes Biologiques de Chizé (CEBC-CNRS), France
-Supervisor: Dr Yan Ropert-Coudert
-Project: Do Adélie penguins care about boundaries? Using the winter locations of a sentinel species for dynamic management of Marine Protected Areas under climate change scenarios
-Funded by Make Our Planet Great Again grant and WWF-UK
 
-October 2020 – March 2021	
-Post-doctoral researcher
-Department of Animal Ecology, Netherlands Institute of Ecology (NIOO-KNAW), Wageningen, Netherlands
-Supervisors: Dr Marcel Visser & Dr Antica Culina
+### ACADEMIC WORK EXPERIENCE 
+
+*Post-doctoral researcher*    
+December 2024 – Present    
+Institut de Ciències del Mar (ICM-CSIC), Barcelona, Spain    
+Supervisor: Dr Francisco Ramírez & Dr Maria Grazia Penino    
+Project: Spatial Habitat Identification and Forecasting Tool (SHIFT)    
+Funding: Momentum CSIC
+
+*Post-doctoral researcher*    
+April 2023 – Oct 2024    
+Institut de Ciències del Mar (ICM-CSIC), Barcelona, Spain    
+Supervisor: Dr Francisco Ramírez    
+Project: A Safe Operating Space for Penguins: fostering the present and future conservation of penguins and their associated marine systems (SOSPEN)    
+
+*Post-doctoral researcher*    
+April 2021 – June 2022	    
+Centre d'Etudes Biologiques de Chizé (CEBC-CNRS), France    
+Supervisor: Dr Yan Ropert-Coudert    
+Project: Do Adélie penguins care about boundaries? Using the winter locations of a sentinel species for dynamic management of Marine Protected Areas under climate change scenarios    
+Funding: Post-doctoral grant Make Our Planet Great Again grant and WWF-UK.    
+
+*Post-doctoral researcher*    
+October 2020 – March 2021	    
+Department of Animal Ecology, Netherlands Institute of Ecology (NIOO-KNAW), Wageningen, Netherlands    
+Supervisors: Dr Marcel Visser & Dr Antica Culina    
 Project: SPI-Birds - Studies of Populations of Individuals Birds Network &	Database
 
-October 2014 – October 2016	
-Pre-doctoral researcher
-Department of Evolutive biology, Ecology and Environmental science
-University of Barcelona, Spain
+*Pre-doctoral researcher*        
+October 2014 – October 2016	       
+Department of Evolutive biology, Ecology and Environmental science    
+University of Barcelona, Spain    
 
-NON-ACADEMIC WORK EXPERIENCE 
+### NON-ACADEMIC WORK EXPERIENCE 
 
-October 2018 – July 2020
-Data Scientist
-Proyectos en Gestión del Conocimiento, Mataró, Spain
-Project: SAPIENS, Funded by FECYT/CDTI Spain 
+*Data Scientist*    
+October 2018 – July 2020    
+Proyectos en Gestión del Conocimiento, Mataró, Spain    
+Project: SAPIENS, Funded by FECYT/CDTI Spain     

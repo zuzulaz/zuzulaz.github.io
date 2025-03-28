@@ -1,0 +1,82 @@
+/* Navbar link default color */
+.navbar-nav a {
+    color: #333333;  /* Original text color (default) */
+}
+
+/* Navbar link hover color */
+.navbar-nav a:hover {
+    color: #005b6d !important;  /* Change this to your desired hover color */
+    text-decoration: none;  /* Optional: Remove underline on hover */
+}
+
+/* Optional: Active link color (when the link is clicked or selected) */
+.navbar-nav .active > a {
+    color: #005b6d !important;  /* This ensures active link uses your hover color */
+}
+
+
+/* Ensure it affects all elements that use the primary color */
+.btn-primary {
+    border-color: var(--bs-primary) !important;
+}
+
+
+/* Sidebar (navigator) link color */
+.navbar-nav a {
+    color: #005b6d; /* Change to your desired sidebar link color */
+}
+
+/* Override for links using primary color */
+a {
+    color: var(--bs-primary) !important;
+}
+
+a:hover {
+    color: darken(var(--bs-primary), 10%) !important; /* Darken on hover */
+}
+
+
+/* Targeting Tools buttons specifically */
+.btn-tool:hover {
+    background-color: #005b6d !important; /* Change this to your desired color */
+    border-color: #005b6d !important;   /* Ensure the border color also changes */
+    color: #ffffff !important; /* Set the text color to white (or any contrasting color) */
+}
+
+/* Targeting buttons inside a specific class or ID */
+.tools-buttons .btn:hover {
+    background-color: #005b6d !important; /* Your desired hover color */
+    border-color: #005b6d !important;
+    color: #ffffff !important;
+}
+
+
+
+
+
+
+/* Table of Contents (TOC) link color */
+.toc a {
+    color: #005b6d !important; /* Change to your desired TOC link color */
+}
+
+.toc a:hover {
+    color: #005b6d !important; /* Color when TOC link is hovered */
+}
+
+/* TOC background and text color */
+.toc {
+    background-color: #f7f7f7; /* Change the TOC background color */
+    color: #333333; /* Change TOC text color */
+}
+
+/* Active TOC item - more specific selector */
+.toc .active > a {
+    color: #0b7f99 !important; /* Change the color of the active TOC item */
+}
+
+.toc a.active {
+    color: #0b7f99 !important; /* Ensure this also targets the active state */
+}
+
+

@@ -1,8 +1,18 @@
 ---
 title: "News"
-listing:
-  contents: news  # <-- the sub-directory with blog content
-  type: grid          # <-- my preferred layout type
+# listing:
+  # contents: news  # <-- the sub-directory with blog content
+  # type: grid          # <-- my preferred layout type
 ---
 
-What's new
+A space to share what I've been up to, ongoing work, past projects or plans for the future.
+<br> 
+<br> 
+<br> 
+
+*March 28, 2025*    
+
+### A new website!
+
+This has been a long time coming, but I have finally created my personal website. Inspired by  training related to my current position, I made it a reality. The website was built using Quarto and GitHub.
+

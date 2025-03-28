@@ -1,23 +1,26 @@
 ---
 title: "Zuzana Zajková"
-image: "images/profile_pic.jpg"
+image: "images/profile_pic_mountain_bw.jpg"
 about:
   template: jolla
-  image-width: 12em
+  image-width: 18em
   image-shape: round
   links:
     - icon: envelope
       text: Send me an email
-      href: mailto:zuzulaz@gmail.com
+      href: mailto:zajkova@icm.cs
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/zuzana-zajkovazz/
-    - icon: "{{< iconify ai googlescholar >}}"
+    - icon: fa-google
       text: GoogleScholar
       href: https://scholar.google.com/citations?user=Qgt6v0QAAAAJ&hl=en
-    - icon: "{{< iconify ai orcid>}}"
+    - icon: "{{< fa brands orcid >}} ORCID"
       text: Orcid
       href: https://orcid.org/0000-0002-7540-3651
+    - icon: "{{< iconify ai researchgate>}}"
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Zuzana-Zajkova
     - icon: github
       text: GitHub
       href: https://github.com/zuzulaz
